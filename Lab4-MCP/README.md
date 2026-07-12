@@ -8,7 +8,7 @@ Intégrer le **Model Context Protocol (MCP)** avec LangChain pour connecter des 
 
 ---
 
-## Structure du projet
+## Structure du projet 
 
 ```
 Lab4-MCP/
