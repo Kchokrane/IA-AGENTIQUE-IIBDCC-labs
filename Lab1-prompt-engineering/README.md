@@ -61,4 +61,4 @@ python 07_image_description.py
 
 - `01_tokenisation.py` ne demande aucune cle API.
 - `02_ollama_prompt.py` demande un serveur Ollama actif et un modele local installe.
-- `03` a `07` demandent des cles API valides.
+- `03` a `07` demandent des cles API valides
