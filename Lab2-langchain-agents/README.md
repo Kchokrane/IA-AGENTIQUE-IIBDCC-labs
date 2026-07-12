@@ -52,7 +52,7 @@ APP_MODE=demo python chef_personnel_agent.py
 
 - `TAVILY_API_KEY` est optionnelle, mais necessaire pour une vraie recherche web.
 - `OLLAMA_MODEL` doit correspondre a un modele installe localement dans Ollama.
-- La vitesse depend surtout du modele local choisi.
+- La vitesse depend surtout du modele local choisi
 
 ## Screenshot
 ![Exercise 1](images/WindowsTerminal_1.png)
