@@ -1,4 +1,4 @@
-# LAB 8 : Workflows avec LangGraph
+# LAB 8 : Workflows avec LangGraph 
 
 **Master BDCC — SMA et IAD | Prof. RETAL SARA**
 
