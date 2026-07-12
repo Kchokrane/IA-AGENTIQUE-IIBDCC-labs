@@ -1,4 +1,4 @@
-# LAB 6 : Contexte et État dans un agent
+# LAB 6 : Contexte et État dans un agent 
 
 **Master BDCC — SMA et IAD | Prof. RETAL SARA**
 
