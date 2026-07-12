@@ -167,5 +167,5 @@ Sans RAG :   Question → LLM (connaissance limitée) → Réponse potentielleme
 Avec RAG :   Question → Retrieval (documents pertinents)
                               │
                               ▼
-                    LLM + Contexte récupéré → Réponse précise et sourcée
+                    LLM + Contexte récupéré → Réponse précise et sourcée 
 ```
