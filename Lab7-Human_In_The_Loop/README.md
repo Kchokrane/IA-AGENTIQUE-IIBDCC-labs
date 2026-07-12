@@ -1,4 +1,4 @@
-# LAB 7 : Un agent HITL (Human-In-The-Loop)
+# LAB 7 : Un agent HITL (Human-In-The-Loop) 
 
 **Master BDCC — SMA et IAD | Prof. RETAL SARA**
 
