@@ -3,7 +3,7 @@
 **Master BDCC — SMA et IAD | Prof. RETAL SARA**
 
 ## Objectif
-
+ 
 Concevoir un agent intelligent jouant le rôle d'un chef cuisinier personnel, capable de :
 - Recevoir la liste des ingrédients disponibles
 - Mémoriser les préférences et restrictions alimentaires de l'utilisateur
